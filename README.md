@@ -45,6 +45,9 @@ Self-taught, self-paced, and project-oriented—balancing real-world application
 
 ![Hema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hema-pandey&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hema-pandey&layout=compact&theme=radical)
+
+
 ---
 
 ## 📫 Let's Connect
