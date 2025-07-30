@@ -52,6 +52,6 @@ Self-taught, self-paced, and project-oriented—balancing real-world application
 
 ## 📫 Let's Connect
 
-- 💌 Email: [your@email.com]
-- 💼 LinkedIn: [your-linkedin-profile]
-- 🎨 Instagram (for art): [your-instagram-handle]
+- 💌 Email: [hemap2692@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/hema-dev/]
+
